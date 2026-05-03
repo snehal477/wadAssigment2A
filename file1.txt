@@ -1,0 +1,4 @@
+name=snehal Bharitkar
+class=TE
+subject=wad lp=2
+Description=this is file 1
